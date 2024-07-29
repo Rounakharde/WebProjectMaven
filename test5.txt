@@ -4,5 +4,10 @@ class Test1
 	{
 	sys("Hello java");
 	}
+	public void m2()
+	{
+	sys("Hello Git");
+	}
+
 
 }
